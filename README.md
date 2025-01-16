@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="zeyroxs@icloud.com">
+  <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://discord.com/users/349709264098689025" target="_blank">
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,js,py,css" />
+    <img src="https://skillicons.dev/icons?i=xd,ps,ai,discord,ae,github,vscode" /><br>
 </div>
 
 <br/>
