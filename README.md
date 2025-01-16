@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=BEE4FF&width=435&lines=Hi%2CIm+Zey4rox+;UI+and+UX+Developer;Welcome+to+my+GitHub." />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h4 align="center">A passionate web and ui developer </h4>
 
 <br/>
 
