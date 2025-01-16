@@ -28,10 +28,10 @@ I have been working in the field of programming and design since 2020 and have h
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Software-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Software-Tools ⚒️</h2>
 
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=html,js,py,css" />
     <img src="https://skillicons.dev/icons?i=xd,ps,ai,discord,ae,github,vscode" /><br>
 </div>
