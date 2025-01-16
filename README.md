@@ -8,9 +8,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🔭 I have been working in programming and design since 2020 and have had more than 20 successful projects.
 
 💬 Ask me about **Js, Html, Py or anything [here](https://github.com/salesp07/salesp07/issues)**
 
