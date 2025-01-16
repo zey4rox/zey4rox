@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=24&pause=1000&color=008BFF&width=435&lines=Hi%2C+I'm+Zeyrox+;UI+and+UX+Developer;Welcome+to+my+GitHub+Profile.)](https://git.io/typing-svg)" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
