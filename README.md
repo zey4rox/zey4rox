@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=24&pause=1000&color=008BFF&width=435&lines=Hi%2C+I'm+Zeyrox+;UI+and+UX+Developer;Welcome+to+my+GitHub+Profile." />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=008BFF&width=435&lines=Hi%2CIm+Zeyrox+;UI+and+UX+Developer;Welcome+to+my+GitHub+Profile." />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
