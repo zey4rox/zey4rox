@@ -1,5 +1,4 @@
-https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zeyroxkabir.zeyroxkabir" />
+<img align="left" src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif" />
 
 <h1 align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=BEE4FF&width=435&lines=Hi%2CIm+Zey4rox+;UI+and+UX+Developer;Welcome+to+my+GitHub." />
