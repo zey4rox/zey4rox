@@ -1,4 +1,3 @@
-username.zeyroxkabir
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zeyroxkabir.zeyroxkabir" />
 
 <h1 align="center">
