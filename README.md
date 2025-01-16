@@ -1,17 +1,23 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zeyroxkabir.zeyroxkabir" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=BEE4FF&width=435&lines=Hi%2CIm+Zey4rox+;UI+and+UX+Developer;Welcome+to+my+GitHub." />
 </h1>
 
-<h4 align="center">A passionate web and ui developer </h4>
+<h3 align="center">A passionate software developer </h3>
+
 <br/>
+
 <div align="center">
  
-I have been working in the field of programming and design since 2020 and have had more than 20 successful projects.
-You can ask me about different programming languages or collaborate with me. 
-You can access my social network from the links below and get
-in touch for questions or collaboration 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
  </div>
  
 <div align="center"> 
