@@ -8,9 +8,9 @@
 <br/>
 <div align="center">
  
- 🔭 I have been working in the field of programming and design since 2020 and have had more than 20 successful projects.
- You can ask me about different programming languages or collaborate with me.  Some of my portfolios include 3D designs, website design.
-
+I have been working in the field of programming and design since 2020 and have had more than 20 successful projects.
+You can ask me about different programming languages or collaborate with me. 
+You can access my social network from the links below and get in touch for questions or collaboration 
  </div>
  
 <div align="center"> 
