@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=BEE4FF&width=435&lines=Hi%2CIm+Zey4rox+;UI+and+UX+Developer;Welcome+to+my+GitHub." />
 </h1>
 
-<h3 align="center">A passionate software developer </h3>
+<h3 align="left">trying to make the impossible possible </h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
 I have been working in the field of programming and design since 2020 and have had more than 20 successful projects. You can ask me about different programming languages or collaborate with me. You can access my social network from the links below and get in touch for questions or collaboration 
 
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
