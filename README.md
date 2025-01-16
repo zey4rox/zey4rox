@@ -5,16 +5,14 @@
 </h1>
 
 <h4 align="center">A passionate web and ui developer </h4>
-
 <br/>
-
 <div align="center">
  
  🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Js, Html, Py or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
