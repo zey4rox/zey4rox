@@ -15,7 +15,7 @@ I have been working in the field of programming and design since 2020 and have h
  </div>
  
 <div align="left"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="zeyroxs@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://discord.com/users/349709264098689025" target="_blank">
