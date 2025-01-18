@@ -1,5 +1,5 @@
 <img align="top" src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif" />
-
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<349709264098689025>)
 <h1 align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=BEE4FF&width=435&lines=Hi%2CIm+Zey4rox+;UI+and+UX+Developer;Welcome+to+my+GitHub." />
 </h1>
