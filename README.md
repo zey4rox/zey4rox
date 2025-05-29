@@ -32,7 +32,7 @@ I have been working in the field of programming and design since 2020 and have h
 
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,js,py,css" />
+    <img src="https://skillicons.dev/icons?i=html,js,py,css,cs,cpp,php,react,lua" />
     <img src="https://skillicons.dev/icons?i=xd,ps,ai,discord,ae,github,vscode" /><br>
 </div>
 
