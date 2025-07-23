@@ -38,7 +38,7 @@ Feel free to connect via my socials below 👇
   </a>
 
   <!-- Website -->
-  <a href="https://ZEYROX.xyz" target="_blank" title="ZEYROX.xyz">
+  <a href="https://zeyrox.top" target="_blank" title="ZEYROX.xyz">
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397641055641534464/WEB.png?ex=6882762a&is=688124aa&hm=3d064b5f853aa3c2be05e85e9286801606595d877b877b8ebbd9f6a643cd799e&" alt="Website" height="50" />
   </a>
 </p>
