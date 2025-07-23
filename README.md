@@ -1,17 +1,17 @@
-<!-- GIF Intro -->
+<!-- Intro GIF -->
 <img align="top" src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif" />
 
-<!-- Typing Title -->
+<!-- Typing title -->
 <h1 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=BEE4FF&width=435&lines=Hi%2CIm+Zey4rox+;UI+and+UX+Developer;Welcome+to+my+GitHub." />
 </h1>
 
-<!-- Subheading -->
+<!-- Subtitle -->
 <h3 align="left">✨ trying to make the impossible possible ✨</h3>
 
 ---
 
-<!-- About Section -->
+<!-- About Me -->
 <div align="left">
 I have been working in the field of programming and design since 2020 and have had more than 20 successful projects.  
 You can ask me about different programming languages or collaborate with me.  
@@ -20,18 +20,21 @@ Feel free to connect via my socials below 👇
 
 <br/>
 
-<!-- Social Icons as Buttons -->
+<!-- Social Media Custom Buttons (Replace image URLs with your own) -->
 <p align="left">
+  <!-- Email -->
   <a href="mailto:zeyroxs@icloud.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="40" style="margin-right: 10px;" />
+    <img src="https://yourdomain.com/buttons/email.png" alt="Email" height="50" style="margin-right: 20px;" />
   </a>
 
+  <!-- Discord -->
   <a href="https://discord.com/users/349709264098689025" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="40" style="margin-right: 10px;" />
+    <img src="https://yourdomain.com/buttons/discord.png" alt="Discord" height="50" style="margin-right: 20px;" />
   </a>
 
+  <!-- Instagram -->
   <a href="https://www.instagram.com/legendfatah/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" />
+    <img src="https://yourdomain.com/buttons/instagram.png" alt="Instagram" height="50" style="margin-right: 20px;" />
   </a>
 </p>
 
@@ -47,7 +50,7 @@ Feel free to connect via my socials below 👇
 
 ---
 
-<!-- Companies Worked With -->
+<!-- Companies -->
 <h2 align="left">🤝 Companies I've Worked With</h2>
 <br/>
 <div align="left">
