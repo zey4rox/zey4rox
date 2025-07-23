@@ -24,17 +24,17 @@ Feel free to connect via my socials below 👇
 <p align="left">
   <!-- Email -->
   <a href="mailto:zeyroxs@icloud.com" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397640372859044012/MAIL9.png?ex=68827587&is=68812407&hm=981be6dd95896e529077dcdc4327c55bf7a3158bb1b9cd0685a1be047f0da18a&" alt="Email" height="50" style="margin-right: 25px;" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397642130943508561/SSAA.png?ex=6882772a&is=688125aa&hm=7c927392dbb94babd2c18a3bbb66459719dbaf8d00929de676b0fe43fcd63c85&" alt="Email" height="50" style="margin-right: 25px;" />
   </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/349709264098689025" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397640373089603695/DISCORD9.png?ex=68827587&is=68812407&hm=97ca3f7a160a90dae35def8076d59fe40844ef0f74548874409a94419c8c2dd4&" alt="Discord" height="50" style="margin-right: 25px;" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397642131690094632/DDDA.png?ex=6882772b&is=688125ab&hm=a081ceb2b4c7d6eddbb4e3be4b285829440e077c1ad0c3e797d1e6b6940efd88&" alt="Discord" height="50" style="margin-right: 25px;" />
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/legendfatah/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397640373286866994/insta9.png?ex=68827587&is=68812407&hm=1206045fe4d3c068737c0107d3d1ecb7cd99bdf7717e57009a1528e5e26a2617&" alt="Instagram" height="50" style="margin-right: 25px;" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397642131274731572/DDAA.png?ex=6882772b&is=688125ab&hm=176ca00f6423b6ef53ad2e50c85fa0a0ea113fa46ee815076dc174836eeed7ba&" alt="Instagram" height="50" style="margin-right: 25px;" />
   </a>
 
   <!-- Website -->
