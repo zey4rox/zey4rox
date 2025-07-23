@@ -39,7 +39,7 @@ Feel free to connect via my socials below 👇
 
   <!-- Website -->
   <a href="https://zeyrox.top" target="_blank" title="ZEYROX.xyz">
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397641055641534464/WEB.png?ex=6882762a&is=688124aa&hm=3d064b5f853aa3c2be05e85e9286801606595d877b877b8ebbd9f6a643cd799e&" alt="Website" height="50" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397641615060897914/ddddd.png?ex=688276af&is=6881252f&hm=3d7133357b726c9c887b0d6a01548e33ddc7304abea1d29444ff49bfae69afd6&" alt="Website" height="50" />
   </a>
 </p>
 
