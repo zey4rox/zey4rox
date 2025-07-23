@@ -20,19 +20,19 @@ Feel free to connect via my socials below 👇
 
 <br/>
 
-<!-- Social Media Custom Buttons (Instagram uses your actual image) -->
+<!-- Social Media Buttons (Custom Images) -->
 <p align="left">
   <!-- Email -->
   <a href="mailto:zeyroxs@icloud.com" target="_blank">
-    <img src="https://yourdomain.com/buttons/email.png" alt="Email" height="50" style="margin-right: 20px;" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397640372859044012/MAIL9.png?ex=68827587&is=68812407&hm=981be6dd95896e529077dcdc4327c55bf7a3158bb1b9cd0685a1be047f0da18a&" alt="Email" height="50" style="margin-right: 20px;" />
   </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/349709264098689025" target="_blank">
-    <img src="https://yourdomain.com/buttons/discord.png" alt="Discord" height="50" style="margin-right: 20px;" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397640373089603695/DISCORD9.png?ex=68827587&is=68812407&hm=97ca3f7a160a90dae35def8076d59fe40844ef0f74548874409a94419c8c2dd4&" alt="Discord" height="50" style="margin-right: 20px;" />
   </a>
 
-  <!-- Instagram (your image) -->
+  <!-- Instagram -->
   <a href="https://www.instagram.com/legendfatah/" target="_blank">
     <img src="https://media.discordapp.net/attachments/1188763529772281917/1397639067016888411/ssss.png?ex=68827450&is=688122d0&hm=6b4a5ab4faa3f8d7ae1b8c4c54421a2ad337a0b45a35270062070eb95b24b492&=&format=webp&quality=lossless" alt="Instagram" height="50" style="margin-right: 20px;" />
   </a>
