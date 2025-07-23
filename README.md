@@ -61,6 +61,6 @@ Feel free to connect via my socials below 👇
 <div align="left">
   <img src="https://media.discordapp.net/attachments/1188763529772281917/1397643333131567135/DSASA.png?ex=68827849&is=688126c9&hm=edef6a5c7a8abe7418fcb3300af5c64abc55b6cb75cb6f9d1420d94aa474b2a9&=&format=webp&quality=lossless" alt="TabrizHadi" height="40" style="margin-right: 30px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" height="40" style="margin-right: 30px;" />
-  <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650821650583552/infinityrp.png?ex=68827f42&is=68812dc2&hm=41aeacc886f17b33cce78debf746ca966180cd3fad20628aaad4de921e70ae7f&" alt="infinityrp" height="50" style="margin-right: 310px;" />
-  <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650866692952154/1111.png?ex=68827f4d&is=68812dcd&hm=0f3671f712ff5098fc23c2ae71e53b372cf31f555dcfaf8658825a3f060b24b1&" alt="Amazon" height="40" />
+  <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650821650583552/infinityrp.png?ex=68827f42&is=68812dc2&hm=41aeacc886f17b33cce78debf746ca966180cd3fad20628aaad4de921e70ae7f&" alt="infinityrp" height="40" style="margin-right: 30px;" />
+  <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650866692952154/1111.png?ex=68827f4d&is=68812dcd&hm=0f3671f712ff5098fc23c2ae71e53b372cf31f555dcfaf8658825a3f060b24b1&" alt="mrcheat" height="40" />
 </div>
