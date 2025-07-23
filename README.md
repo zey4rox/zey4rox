@@ -65,12 +65,12 @@ Feel free to connect via my socials below 👇
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650793175453926/1676304055886.webp?ex=68827f3c&is=68812dbc&hm=5e910eb8f7e3471d8b71d74a509aa915afe2558f45fad51bd87632c1b81f58d4&" alt="RedStarRP" height="80" />
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650821650583552/infinityrp.png?ex=68827f42&is=68812dc2&hm=41aeacc886f17b33cce78debf746ca966180cd3fad20628aaad4de921e70ae7f&" alt="InfinityRP" height="80" />
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650866692952154/1111.png?ex=68827f4d&is=68812dcd&hm=0f3671f712ff5098fc23c2ae71e53b372cf31f555dcfaf8658825a3f060b24b1&" alt="MrCheat" height="80" />
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650761021657108/sslogo.webp" alt="Ryson" height="80" />
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645961215344821/logo-psd12.png" alt="StarRealms" height="80" />
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645895004065802/FIVEEE.png" alt="FiveMedia" height="80" />
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645694382112778/majestic.png" alt="MajesticRP" height="80" />
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645695317577738/rahyaft.png" alt="RahyaftAcademy" height="80" />
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397653332578930820/1.png" alt="FinalClient" height="80" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650761021657108/sslogo.webp?ex=68827f34&is=68812db4&hm=5cd2afbe7ff4eeffc7805b5efbc4ec60ff0b343eeb091f182719fa811a788b40&" alt="Ryson" height="80" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645961215344821/logo-psd12.png?ex=68827abc&is=6881293c&hm=4268bfa14bae5b74ab9861e1a07e8fa8b18fddff2d8fe66cb095b49dbbf6a704&" alt="StarRealms" height="80" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645895004065802/FIVEEE.png?ex=68827aac&is=6881292c&hm=2a00425238ab13a9d717988d1c1df9af81b595af2cffce0e69d7ce2a428bbbf1&" alt="FiveMedia" height="80" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645694382112778/majestic.png?ex=68827a7c&is=688128fc&hm=4436265495124397fe511f97cf59f7786ef07cbbb1fb90d459e4381a3b494fee&" alt="MajesticRP" height="80" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645695317577738/rahyaft.png?ex=68827a7c&is=688128fc&hm=6d5c3a3cbdf9b2a68a8e223ad4afa5f6ce9b5ae85bd18a5578e120b9c2e44c03&" alt="RahyaftAcademy" height="80" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397653332578930820/1.png?ex=68828199&is=68813019&hm=ba78b8851146c245c0c98e2db5285ab30e8db75fd9607a030c8ba6684fff60cc&" alt="XDEV" height="80" />
   </p>
 </div>
 
