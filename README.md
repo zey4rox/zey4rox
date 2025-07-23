@@ -59,8 +59,17 @@ Feel free to connect via my socials below 👇
 <h2 align="left">🤝 Companies I've Worked With</h2>
 <br/>
 <div align="left">
-  <img src="https://media.discordapp.net/attachments/1188763529772281917/1397643333131567135/DSASA.png?ex=68827849&is=688126c9&hm=edef6a5c7a8abe7418fcb3300af5c64abc55b6cb75cb6f9d1420d94aa474b2a9&=&format=webp&quality=lossless" alt="TabrizHadi" height="40" style="margin-right: 30px;" />
+  <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645694864461964/tabrizhadi.png?ex=68827a7c&is=688128fc&hm=67fdebcfebf0192df3fe7c60f8737d140d11cfbfb21bfd4801f13e50fddfac78&" alt="TabrizHadi" height="40" style="margin-right: 30px;" />
   <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650793175453926/1676304055886.webp?ex=68827f3c&is=68812dbc&hm=5e910eb8f7e3471d8b71d74a509aa915afe2558f45fad51bd87632c1b81f58d4&" alt="redstarrp" height="40" style="margin-right: 30px;" />
   <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650821650583552/infinityrp.png?ex=68827f42&is=68812dc2&hm=41aeacc886f17b33cce78debf746ca966180cd3fad20628aaad4de921e70ae7f&" alt="infinityrp" height="40" style="margin-right: 30px;" />
   <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650866692952154/1111.png?ex=68827f4d&is=68812dcd&hm=0f3671f712ff5098fc23c2ae71e53b372cf31f555dcfaf8658825a3f060b24b1&" alt="mrcheat" height="40" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650761021657108/sslogo.webp?ex=68827f34&is=68812db4&hm=5cd2afbe7ff4eeffc7805b5efbc4ec60ff0b343eeb091f182719fa811a788b40&" alt="ryson" height="40" />
+  <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645961215344821/logo-psd12.png?ex=68827abc&is=6881293c&hm=4268bfa14bae5b74ab9861e1a07e8fa8b18fddff2d8fe66cb095b49dbbf6a704&" alt="starrealms" height="40" />
+  <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645895004065802/FIVEEE.png?ex=68827aac&is=6881292c&hm=2a00425238ab13a9d717988d1c1df9af81b595af2cffce0e69d7ce2a428bbbf1&" alt="fivemedia" height="40" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645895004065802/FIVEEE.png?ex=68827aac&is=6881292c&hm=2a00425238ab13a9d717988d1c1df9af81b595af2cffce0e69d7ce2a428bbbf1&" alt="fivemedia" height="40" />
+  <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645694382112778/majestic.png?ex=68827a7c&is=688128fc&hm=4436265495124397fe511f97cf59f7786ef07cbbb1fb90d459e4381a3b494fee&" alt="majesticrp" height="40" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645695317577738/rahyaft.png?ex=68827a7c&is=688128fc&hm=6d5c3a3cbdf9b2a68a8e223ad4afa5f6ce9b5ae85bd18a5578e120b9c2e44c03&" alt="rahyaftacademy" height="40" />
+
+
+
 </div>
