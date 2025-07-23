@@ -20,27 +20,19 @@ Feel free to connect via my socials below 👇
 
 <br/>
 
-<!-- Custom Social Buttons -->
+<!-- Social Icons as Buttons -->
 <p align="left">
-
-  <a href="mailto:zeyroxs@icloud.com" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block; background:linear-gradient(135deg,#ff4b2b,#ff416c); color:white; padding:10px 20px; border-radius:30px; font-weight:bold; margin-right:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-      📧 Email
-    </span>
+  <a href="mailto:zeyroxs@icloud.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="40" style="margin-right: 10px;" />
   </a>
 
-  <a href="https://discord.com/users/349709264098689025" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block; background:linear-gradient(135deg,#5865F2,#404EED); color:white; padding:10px 20px; border-radius:30px; font-weight:bold; margin-right:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-      💬 Discord
-    </span>
+  <a href="https://discord.com/users/349709264098689025" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="40" style="margin-right: 10px;" />
   </a>
 
-  <a href="https://www.instagram.com/legendfatah/" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-block; background:linear-gradient(135deg,#feda75,#d62976,#962fbf); color:white; padding:10px 20px; border-radius:30px; font-weight:bold; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-      📸 Instagram
-    </span>
+  <a href="https://www.instagram.com/legendfatah/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" />
   </a>
-
 </p>
 
 ---
