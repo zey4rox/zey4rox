@@ -39,6 +39,19 @@ I have been working in the field of programming and design since 2020 and have h
 <br/>
 <hr/>
 
+
  
 
  
+<h2 align="left">🤝 Companies I've Worked With</h2>
+
+<br/>
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="40" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" height="40" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" height="40" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" height="40" style="margin-right: 20px;" />
+</div>
+
+<br/>
