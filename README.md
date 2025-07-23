@@ -72,7 +72,7 @@ Feel free to connect via my socials below 👇
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645695317577738/rahyaft.png?ex=68827a7c&is=688128fc&hm=6d5c3a3cbdf9b2a68a8e223ad4afa5f6ce9b5ae85bd18a5578e120b9c2e44c03&" alt="RahyaftAcademy" height="80" />
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397653332578930820/1.png?ex=68828199&is=68813019&hm=ba78b8851146c245c0c98e2db5285ab30e8db75fd9607a030c8ba6684fff60cc&" alt="XDEV" height="80" />
         <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397656191777374238/fffa.png?ex=68828443&is=688132c3&hm=ff312597855836bedf7bd407e6498ac0ac982c5d5aef8bf31bd450caa93235c7&" alt="FATAHI" height="80" />
-            <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397656790795161841/ultra-glow.png?ex=688284d2&is=68813352&hm=9e905f472db05e16edd2abc8d0b05b25f88882d484e5d5632fc69a3d6f48fa5d&" alt="SADAFHOST" height="80" />
+            <img src="https://media.discordapp.net/attachments/1188763529772281917/1397657229145935912/s-5.png?ex=6882853a&is=688133ba&hm=6fbc4a38feaddfc6dff950a158a87c65927677ae74499fcff816ddfa24c8ed90&=&format=webp&quality=lossless&width=1872&height=528" alt="SADAFHOST" height="80" />
 
   </p>
 </div>
