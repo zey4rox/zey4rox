@@ -59,7 +59,7 @@ Feel free to connect via my socials below 👇
 <h2 align="left">🤝 Companies I've Worked With</h2>
 <br/>
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="40" style="margin-right: 30px;" />
+  <img src="https://media.discordapp.net/attachments/1188763529772281917/1397643333131567135/DSASA.png?ex=68827849&is=688126c9&hm=edef6a5c7a8abe7418fcb3300af5c64abc55b6cb75cb6f9d1420d94aa474b2a9&=&format=webp&quality=lossless" alt="TabrizHadi" height="40" style="margin-right: 30px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" height="40" style="margin-right: 30px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" height="40" style="margin-right: 30px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" height="40" />
