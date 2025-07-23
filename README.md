@@ -13,26 +13,34 @@
 
 <!-- About Section -->
 <div align="left">
-
 I have been working in the field of programming and design since 2020 and have had more than 20 successful projects.  
 You can ask me about different programming languages or collaborate with me.  
 Feel free to connect via my socials below 👇
-
 </div>
 
 <br/>
 
-<!-- Social Buttons -->
+<!-- Custom Social Buttons -->
 <p align="left">
-  <a href="mailto:zeyroxs@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-zeyroxs@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:zeyroxs@icloud.com" target="_blank" style="text-decoration:none;">
+    <span style="display:inline-block; background:linear-gradient(135deg,#ff4b2b,#ff416c); color:white; padding:10px 20px; border-radius:30px; font-weight:bold; margin-right:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+      📧 Email
+    </span>
   </a>
-  <a href="https://discord.com/users/349709264098689025" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Zey4rox%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+  <a href="https://discord.com/users/349709264098689025" target="_blank" style="text-decoration:none;">
+    <span style="display:inline-block; background:linear-gradient(135deg,#5865F2,#404EED); color:white; padding:10px 20px; border-radius:30px; font-weight:bold; margin-right:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+      💬 Discord
+    </span>
   </a>
-  <a href="https://www.instagram.com/legendfatah/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@legendfatah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/legendfatah/" target="_blank" style="text-decoration:none;">
+    <span style="display:inline-block; background:linear-gradient(135deg,#feda75,#d62976,#962fbf); color:white; padding:10px 20px; border-radius:30px; font-weight:bold; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+      📸 Instagram
+    </span>
   </a>
+
 </p>
 
 ---
@@ -56,10 +64,3 @@ Feel free to connect via my socials below 👇
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" height="40" style="margin-right: 30px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" height="40" />
 </div>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F22,100:5865F2&height=120&section=footer" />
-</p>
