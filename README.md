@@ -76,7 +76,7 @@ Feel free to connect via my socials below 👇
                <img src="https://images-ext-1.discordapp.net/external/cuSyLFfyPgHtbTjMhlXA_r6R8PkDWd6RbZO3OQqat9A/%3Fimgf%3Dorg-f0f5893c73d91.png/https/biaupload.com/do.php?format=webp" alt="ORBYTE" height="60" />
        <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397830779995947048/all.png?ex=688326dc&is=6881d55c&hm=44b270e293024eb33013985db6a610bd0b072bc2627fde43929c16a8c238f14e&" alt="Alibaba" height="60" />
               <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397832169308815443/BingoLogo_Header_128x80_1x_1.webp?ex=68832827&is=6881d6a7&hm=7aaa2213bba5fdf1510305f825c4f847dbb5eaa2ab41f4f5849265c85d9c9689&" alt="Bingoo" height="60" />
-                            <img src="https://bornamart.com/wp-content/uploads/2024/01/LOGO-REDA-01.png" alt="Bingoo" height="60" />
+                            <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397852397996343400/LOGO-REDA-01.png?ex=68833afe&is=6881e97e&hm=30250d73d8cb13d02fc711e019a9043f03fd9f8afd611cb6b18bd0184e73230a&" alt="Bingoo" height="60" />
 
 
   </p>
