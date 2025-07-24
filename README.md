@@ -61,7 +61,7 @@ Feel free to connect via my socials below 👇
 <div align="left">
   <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px;">
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397653388409180402/FFFF.png?ex=688281a6&is=68813026&hm=620f916c2b909367eab8355d848dcc0a275cee6093d1ab43b4bd8c7fbad0873c&" alt="FTH" height="60" />
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645694864461964/tabrizhadi.png?ex=68827a7c&is=688128fc&hm=67fdebcfebf0192df3fe7c60f8737d140d11cfbfb21bfd4801f13e50fddfac78&" alt="TabrizHadi" height="60" />
+    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397645694864461964/tabrizhadi.png?ex=68827a7c&is=688128fc&hm=67fdebcfebf0192df3fe7c60f8737d140d11cfbfb21bfd4801f13e50fddfac78&" alt="TabrizHadi" height="75" />
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650793175453926/1676304055886.webp?ex=68827f3c&is=68812dbc&hm=5e910eb8f7e3471d8b71d74a509aa915afe2558f45fad51bd87632c1b81f58d4&" alt="RedStarRP" height="60" />
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650821650583552/infinityrp.png?ex=68827f42&is=68812dc2&hm=41aeacc886f17b33cce78debf746ca966180cd3fad20628aaad4de921e70ae7f&" alt="InfinityRP" height="60" />
     <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397650866692952154/1111.png?ex=68827f4d&is=68812dcd&hm=0f3671f712ff5098fc23c2ae71e53b372cf31f555dcfaf8658825a3f060b24b1&" alt="MrCheat" height="60" />
