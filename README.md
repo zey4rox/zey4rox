@@ -24,7 +24,7 @@ Feel free to connect via my socials below 👇
 <p align="left">
   <!-- Email -->
   <a href="mailto:zeyroxs@icloud.com" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397642130943508561/SSAA.png?ex=6882772a&is=688125aa&hm=7c927392dbb94babd2c18a3bbb66459719dbaf8d00929de676b0fe43fcd63c85&" alt="Email" height="50" style="margin-right: 25px;" />
+    <img src="https://media.discordapp.net/attachments/1188763529772281917/1397642130943508561/SSAA.png?ex=688c5a6a&is=688b08ea&hm=f44ddbf982bbb4fec0978142c26d59edca9e3138be2d1a9e537288fc23e68915&=&format=webp&quality=lossless" alt="Email" height="50" style="margin-right: 25px;" />
   </a>
 
   <!-- Discord -->
