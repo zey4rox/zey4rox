@@ -1,5 +1,5 @@
 <!-- Intro -->
-<img align="top" src="[https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif](https://telkara.ir/upload/02/1754748098.png)" />
+<img align="top" src="https://telkara.ir/upload/02/1754748098.png" />
 
 <!-- Typing title -->
 <h1 align="left">
