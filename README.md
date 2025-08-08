@@ -1,5 +1,5 @@
-<!-- GIF Intro -->
-<img align="top" src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif" />
+<!-- Intro -->
+<img align="top" src="[https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif](https://telkara.ir/upload/02/1754748098.png)" />
 
 <!-- Typing title -->
 <h1 align="left">
@@ -24,22 +24,22 @@ Feel free to connect via my socials below 👇
 <p align="left">
   <!-- Email -->
   <a href="mailto:zeyroxs@icloud.com" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1188763529772281917/1397642130943508561/SSAA.png?ex=688c5a6a&is=688b08ea&hm=f44ddbf982bbb4fec0978142c26d59edca9e3138be2d1a9e537288fc23e68915&=&format=webp&quality=lossless" alt="Email" height="50" style="margin-right: 25px;" />
+    <img src="https://telkara.ir/upload/02/1754686281.png" alt="Email" height="50" style="margin-right: 25px;" />
   </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/349709264098689025" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397642131690094632/DDDA.png?ex=6882772b&is=688125ab&hm=a081ceb2b4c7d6eddbb4e3be4b285829440e077c1ad0c3e797d1e6b6940efd88&" alt="Discord" height="50" style="margin-right: 25px;" />
+    <img src="https://telkara.ir/upload/02/1754700765.png" alt="Discord" height="50" style="margin-right: 25px;" />
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/legendfatah/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397642131274731572/DDAA.png?ex=6882772b&is=688125ab&hm=176ca00f6423b6ef53ad2e50c85fa0a0ea113fa46ee815076dc174836eeed7ba&" alt="Instagram" height="50" style="margin-right: 25px;" />
+    <img src="https://telkara.ir/upload/02/1754745039.png" alt="Instagram" height="50" style="margin-right: 25px;" />
   </a>
 
-  <!-- Website -->
+  <!-- 2025 -->
   <a href="https://zeyrox.top" target="_blank" title="ZEYROX.xyz">
-    <img src="https://cdn.discordapp.com/attachments/1188763529772281917/1397641615060897914/ddddd.png?ex=688276af&is=6881252f&hm=3d7133357b726c9c887b0d6a01548e33ddc7304abea1d29444ff49bfae69afd6&" alt="Website" height="50" />
+    <img src="https://telkara.ir/upload/02/1754697681.png" alt="Website" height="50" />
   </a>
 </p>
 
