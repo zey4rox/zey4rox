@@ -36,11 +36,6 @@ Feel free to connect via my socials below 👇
   <a href="https://www.instagram.com/legendfatah/" target="_blank">
     <img src="https://telkara.ir/upload/02/1754745039.png" alt="Instagram" height="50" style="margin-right: 25px;" />
   </a>
-
-  <!-- 2025 -->
-  <a href="https://zeyrox.top" target="_blank" title="ZEYROX.xyz">
-    <img src="https://telkara.ir/upload/02/1754697681.png" alt="Website" height="50" />
-  </a>
 </p>
 
 ---
